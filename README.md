@@ -17,16 +17,31 @@
  <h3>1. Importing NumPy</h3>    
  <p>NumPy is typically imported into Python scripts or projects using the following convention:</p>
  <p> Command :  import numpy as np</h3></p>
+
  <h3>2. Creating NumPy Arrays</h3>
  <p> Creating arrays in NumPy is fundamental for any data manipulation or numerical computation tasks. </p>
 <p> Common Example:   a = np.array[1,2,3,4] </p>
 <h4>Zeros Array</h4>
 <p> This Array creates a array of zeros with respect to the Shape and dimensions given </p>
-<p> Format : variable = np.zeros(shape,Dimensions)</p>
-<p> OR : variable = np.zeros(Dimensions(Row,column)</p>
+<p> Format : Array = np.zeros(shape,Dimensions)</p>
+<p> OR : Array = np.zeros(Dimensions(Row,column)</p>
 <p>Example :  zeros_arr = np.zeros((3, 4)) </p>
 <h4>Ones Array </h4>
 <p> This Array creates a array of Ones with respect to the Shape and dimensions given </p>
-<p> Format : variable = np.ones(shape,Dimensions)</p>
-<p> OR : variable = np.ones(Dimensions(Row,column)</p>
+<p> Format : Array = np.ones(shape,Dimensions)</p>
+<p> OR : Array = np.ones(Dimensions(Row,column)</p>
 <p>Example :  zeros_arr = np.ones((2,3)) </p>
+
+<h3>3.Array Attributes</h3>
+<h4>Shape </h4>
+<p>Prints the Shape of the array</p>
+<p> Command : Array.shape </p>
+<h4>Size</h4>
+<p>Prints the Size of the Array</p>
+<p>Command : Array.Size</p>
+<h4>Data Type</h4>
+<p>Prints the Data Type of the Array</p>
+<p>Command : Array.dtype </p>
+<h4>Dimension </h4>
+<p>Prints the Dimension of the Array</p>
+<p>Command : Array.ndim</p>
