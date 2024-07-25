@@ -45,3 +45,16 @@
 <h4>Dimension </h4>
 <p>Prints the Dimension of the Array</p>
 <p>Command : Array.ndim</p>
+
+<h3>4.Indexing and Slicing</h3>
+<p>Indexing in NumPy refers to accessing individual elements of an array using their indices. NumPy arrays can be one-dimensional, two-dimensional, or multi-dimensional, and indexing works accordingly.</p>
+<h4> Indexing for One Dimensional Array</h4>
+<p>Example : </p>
+<p>import numpy as np</p>
+<p>a=([1,2,3,4,5])</p>
+<p>a[0]</p> <p>output = 1</p> 
+<h4>Indexing for  Multi dimensional Array</h4>
+<p>For multi-dimensional arrays, you use a comma-separated tuple of indices</p>
+<p>Example</p>
+<p> a=([1,2],[3,4],[5,6],[7,8])</p>
+<p>a[2:2]</p> <p>Output = 6 </p>
