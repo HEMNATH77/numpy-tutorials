@@ -33,16 +33,16 @@
 <p>Example :  zeros_arr = np.ones((2,3)) </p>
 
 <h3>3.Array Attributes</h3>
-<h4>Shape </h4>
+<h4>i)Shape </h4>
 <p>Prints the Shape of the array</p>
 <p> Command : Array.shape </p>
-<h4>Size</h4>
+<h4>ii)Size</h4>
 <p>Prints the Size of the Array</p>
 <p>Command : Array.Size</p>
-<h4>Data Type</h4>
+<h4>iii)Data Type</h4>
 <p>Prints the Data Type of the Array</p>
 <p>Command : Array.dtype </p>
-<h4>Dimension </h4>
+<h4>iv)Dimension </h4>
 <p>Prints the Dimension of the Array</p>
 <p>Command : Array.ndim</p>
 
