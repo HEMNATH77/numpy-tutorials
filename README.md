@@ -14,5 +14,7 @@
       <h3>8.Loading and Saving Data</h3>
 
 <h2> About the repository </h2>
-<p> This Repository contains the basic and intermediate content of numpy used for Data Analytics. Go through the material and Examples to gain Additional Info's.</p>
+
+
+
  
