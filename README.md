@@ -28,6 +28,6 @@
 <h2>Conclusion</h2>
 <p> This repository is designed to help you master NumPy and effectively integrate it with Pandas for data analytics.</p>
 
-<center> <h1> Happy Learning!!! </h1> </center>
+<p align = center>  Happy Learning!!!</p>
 
  
