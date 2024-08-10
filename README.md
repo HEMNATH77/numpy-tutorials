@@ -19,8 +19,8 @@
 <ol><h3> Numpy </h3>
 <h3> Keith galli's Tutorial </h3></ol>
 <h3> Numpy </h3>
-<p> This file will Explains Numpy operations and their Syntax with Examples. the word document will provide you basic knowledge about the syntax and operations. go through the Examples as well.
-<a href="https://github.com/HEMNATH77/numpy-tutorials/blob/main/Numpy/numpy.docx">Numpy Tutorials</a>
+<p>NumPy is a powerful library in Python used for numerical computing, particularly for working with arrays and matrices, and performing complex mathematical operations. This document aims to provide a foundational understanding of NumPy operations along with their syntax, illustrated with practical examples. It serves as a guide for those who are beginning to explore the capabilities of NumPy, offering insights into how to effectively utilize the library in various computational scenarios.</p>
+<p>Download the Word Document here 👉🏻<a href="https://github.com/HEMNATH77/numpy-tutorials/blob/main/Numpy/numpy.docx">Numpy Tutorials</a></p>
 <h3> Keith Galli's Tutorial </h3>
 <p> This file only contains the Examples that i had learned from keith galli's numpy tutorial on freecodecamp. this helps me lot to know about the various functions in Numpy
 <img src="https://github.com/user-attachments/assets/61c6daf1-e433-485a-bd4b-1dbbf64fdf82"> </p>
