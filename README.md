@@ -20,7 +20,7 @@
 <h3> Keith galli's Tutorial </h3></ol>
 <h3> Numpy </h3>
 <p> This file will Explains Numpy operations and their Syntax with Examples. the word document will provide you basic knowledge about the syntax and operations. go through the Examples as well.
-<img src="https://github.com/user-attachments/assets/cad40e45-1d7e-4126-96e8-033aa5295838"></p>
+<a href="https://github.com/HEMNATH77/numpy-tutorials/blob/main/Numpy/numpy.docx">Numpy Tutorials</a>
 <h3> Keith Galli's Tutorial </h3>
 <p> This file only contains the Examples that i had learned from keith galli's numpy tutorial on freecodecamp. this helps me lot to know about the various functions in Numpy
 <img src="https://github.com/user-attachments/assets/61c6daf1-e433-485a-bd4b-1dbbf64fdf82"> </p>
