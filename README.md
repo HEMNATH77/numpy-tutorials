@@ -3,7 +3,7 @@
 <h1>NUMPY</h1>
 <p>NumPy is a fundamental library for numerical computing in Python, providing robust support for working with large, multi-dimensional arrays and matrices. It is designed to facilitate efficient numerical operations by offering a vast collection of mathematical functions that can be applied directly to these arrays. NumPy's core strength lies in its ability to handle large datasets and perform complex calculations with ease, making it an indispensable tool for tasks ranging from simple arithmetic to advanced linear algebra.</p>
 
-<h2>Topics:</h2>
+<h2>Topics that Covered :</h2>
 <ol><h3>1.Importing NumPy</h3>
       <h3>2.Creating NumPy Arrays</h3>
       <h3>3.Array Attributes</h3>
